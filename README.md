@@ -1,0 +1,1 @@
+Este proyecto fue realizado utilizando Bolt.new, mediante un par de prompts pude conseguir una copia casi exacta del wireframe que el profesor nos envio, de no existir esta herramienta no hubiese podido realizar la actividad.
